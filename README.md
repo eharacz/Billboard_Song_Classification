@@ -20,6 +20,8 @@ A list of all Billboard Top 100 Hits was gathered going back to 1958. The analyt
   - Random Forest
   - Naive Bayes
   
+  ![alt text](https://github.com/eharacz/Billboard_Song_Classification/blob/wip/Model_Results.png "Model Results")
+  
   
 # Final Model:
   - XGBoost
