@@ -22,6 +22,7 @@ A list of all Billboard Top 100 Hits was gathered going back to 1958. The analyt
   
 # Final Model:
   - XGBoost
+  ![alt text](https://github.com/eharacz/Billboard_Song_Classification/blob/wip/XGBoost_Confusion-Matrix.png "XGBoost Confusion Matrix")
   
 # Future Improvements:
   - At the time of the intial model running there was a an uneven count of observations in the two classes. There was  approximately 23,000 Billboard Top 100 songs and approximately 7000 Non-Billboard songs. To deal with this, I used SMOTE to synthetically replicate more songs into the Non-Billboard category. More songs have been pulled and the tests can be re-run with more pure data.
